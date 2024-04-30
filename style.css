@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: cornflowerblue;
+    background-color: rgb(95, 100, 109);
     display: flex;
     justify-content: center;
     
@@ -14,7 +14,7 @@ img{
 }
 
 section{
-    background-color: blueviolet;
+    background-color: rgb(154, 150, 158);
     width: 800px;
     margin-top: 200px;
     display: flex;
@@ -22,7 +22,7 @@ section{
     border-radius: 45px;
     align-items: center;
     gap: 10px;
-    box-shadow: 0 0 50px 5px indigo;
+    box-shadow: 0 0 50px 5px rgb(184, 160, 160);
 }
 
 .foto{
